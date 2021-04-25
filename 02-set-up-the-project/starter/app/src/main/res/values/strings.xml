@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Watchlist</string>
+  <string name="name_placeholder">Name: %1$s</string>
+  <string name="role_placeholder">Role: %1$s</string>
+  <string name="orderOfThePhoenix_placeholder">Order of the Phoenix: %1$s</string>
+  <string name="something_went_wrong">Something went wrong</string>
+  <string name="there_seems_to_be_no_data">There seems to be no data :(</string>
+  <string name="runtime_minutes">Runtime: %1$s minutes</string>
+</resources>
